@@ -1,10 +1,4 @@
 # Databricks notebook source
-import os
-
-os.path.abspath('/Workspace/Repos/kyle.hale@databricks.com/wordle-tree')
-
-# COMMAND ----------
-
 import pandas as pd
 import numpy as np
 import os
